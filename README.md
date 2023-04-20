@@ -12,5 +12,5 @@
     <img src="https://img.shields.io/twitter/follow/korteke?style=social" alt="Twitter Badge"/>
   </a>
   </div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=korteke&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="korteke's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korteke&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=korteke&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="korteke's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korteke&layout=compact&theme=buefy&hide_border=false" /></a>
 </p>
