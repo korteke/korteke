@@ -2,6 +2,8 @@
 <p align="center">
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <div id="badges" align="center">
+  <a href="https://www.ko-fi.com/korteke">
+      <img height='35' style='border:0px;height:20px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   <a href="https://infosec.exchange/@korteke">
     <img src="https://img.shields.io/mastodon/follow/109274104716448753?domain=https%3A%2F%2Finfosec.exchange&style=social" alt="Mastodon Badge"/>
   </a>
